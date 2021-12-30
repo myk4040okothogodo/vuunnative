@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "643344500727",
+    "project_id": "foodordering-20352",
+    "storage_bucket": "foodordering-20352.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643344500727:android:89b20b61f16896464050f2",
+        "android_client_info": {
+          "package_name": "com.vuuna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643344500727-8iqq24ebhrjlkrivn8q4vjceqiuovjeh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNxY9K0fR9oR0OACVLBea9MaiTzbgiuts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643344500727-8iqq24ebhrjlkrivn8q4vjceqiuovjeh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
